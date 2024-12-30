@@ -22,18 +22,6 @@
 - **Idiomas**:
   - Inglés (Intermedio)
   - Español (Nativo)
-
----
-
-## 🚀 Proyectos Destacados
-- **[Análisis de Datos Educativos](#)**:
-  - Creación de dashboards interactivos con Power BI para analizar métricas educativas.
-  - Evaluación de impacto de programas educativos mediante análisis de datos.
-- **[Gestor de Tareas Android](#)**:
-  - Aplicación móvil básica utilizando Flutter y Dart.
-- **[Visualización de Datos de Ventas](#)**:
-  - Proyecto con Python y Excel para visualizar y optimizar el rendimiento de ventas.
-
 ---
 
 ## 🌐 Contacto
