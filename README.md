@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ana María Tapia Hurtado
+# 👋 ¡Hola! Soy Ana Maria Tapia Hurtado
 
 🎓 Estudiante de Ingeniería de Sistemas de Información | 💻 Apasionada por la Ciencia de Datos y el Desarrollo de Soluciones Tecnológicas
 
