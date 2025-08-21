@@ -13,20 +13,21 @@
 ---
 
 ## 🛠 Habilidades Técnicas
-**Lenguajes de Programación:**  
+- **Lenguajes de Programación:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-- **Frameworks**:
+- **Frameworks:**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 - **Herramientas**:
-  - Análisis de Datos: Power BI (Intermedio), Excel (Avanzado)
-  - Gestión de Proyectos: Microsoft Project (Intermedio)
-  - Redes: Conocimientos básicos de Cisco e ISO 27001
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=flat&logo=microsoft&logoColor=white)
+- 
 - **Idiomas**:
   - Inglés (Intermedio)
   - Español (Nativo)
