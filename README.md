@@ -13,8 +13,8 @@
 ---
 
 ## 🛠 Habilidades Técnicas
-- **Lenguajes de Programación**: Python, Java, Dart, TypeScript, SQL
-- **Desarrollo**: Angular, Spring Boot, Flutter, Desarrollo Web Frontend y Backend
+- **Lenguajes de Programación**: Python, Java, Dart, TypeScript, SQL.
+- **Frameworks**: Angular, Spring boot, flutter
 - **Herramientas**:
   - Análisis de Datos: Power BI (Intermedio), Excel (Avanzado)
   - Gestión de Proyectos: Microsoft Project (Intermedio)
